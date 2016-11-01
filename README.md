@@ -1,2 +1,3 @@
 # kheifets.github.io
-website
+Igor Kheifets, Assistant professor, ITAM
+(website under construction)
