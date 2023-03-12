@@ -1,2 +1,2 @@
 # kheifets.github.io
-Igor Kheifets, Assistant professor, HSE University
+Igor Kheifets, Senior Researcher, University of Klagenfurt
